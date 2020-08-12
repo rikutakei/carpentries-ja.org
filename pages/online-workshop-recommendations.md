@@ -396,3 +396,13 @@ If you decide to experiment *within* the general parameters of these guidelines 
 # Keep checking back here. These recommendations will change!
 As time passes, do not forget to check back here each time you teach! We will not be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations ASAP. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
 
+
+
+
+
+#### Changelog (content changes only)
+9 April 2020: Version 1.0 published
+16 July 2020: Version 2.0 published
+- Thematic organization replaced by chronological 
+- Widespread updates based on community feedback
+12 Aug 2020: Added specific recommendations re class size limit 20
