@@ -30,9 +30,9 @@ author: admin
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://carpentries.org'
+url: 'https://carpentries-ja.org'
 baseurl: ''
-filesurl: 'https://carpentries.org/files'
+filesurl: 'https://carpentries-ja.org/files'
 contact: "team@carpentries.org"
 
 # Regional contacts
@@ -53,7 +53,7 @@ wrf_inquiry:  "https://amy.carpentries.org/forms/inquiry/" # inquire about works
 wrf_selforg: "https://amy.carpentries.org/forms/self-organised/" # Report self organized workshop
 
 # Website repository
-website_github_repo: "https://github.com/carpentries/carpentries.org"
+website_github_repo: "https://github.com/carpentries/carpentries-ja.org"
 gh_default_branch: "main"
 
 # Website configuration links
@@ -70,7 +70,7 @@ mailing_lists   : "https://carpentries.topicbox.com/groups"
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: 'https://carpentries.org/images'
+urlimg: 'https://carpentries-ja.org/images'
 
 
 # Logo size is 600x80 pixels
